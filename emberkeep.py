@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""
+JEE
 EMBERKEEP - a 2D pixel-art dungeon adventure that runs in its own window.
 
 Setup (once):   pip install pygame
